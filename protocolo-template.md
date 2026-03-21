@@ -1,7 +1,7 @@
 ---
-title: "[Nome do Cenário]: Ensaio Clínico Randomizado"
-author: "Grupo X - Turma Y"
-date: "2026-03-03"
+title: " MindMove: Ensaio Clínico Randomizado"
+author: "Grupo 2 - Turma 1"
+date: "2026-03-27"
 ---
 
 # Protocolo de Ensaio Clínico
@@ -18,32 +18,34 @@ versus Cuidado Habitual no Controlo da Asma em Adultos: Um Ensaio Clínico
 Randomizado"
 -->
 
-[ESCREVER AQUI O TÍTULO COMPLETO]
+Eficácia de uma Intervenção Digital Multimodal (MindMove) na Redução de Sintomas Depressivos em Estudantes Universitários: Um Estudo Controlado Randomizado
 
 ### Título Abreviado
 
-[TÍTULO CURTO - máx 50 caracteres]
+MindMove: Ensaio Clínico em Saúde Mental Digital
 
 ### Autores e Afiliações
 
 **Investigadores Principais:**
-- [Nome 1], [Afiliação]
-- [Nome 2], [Afiliação]
-- [Nome 3], [Afiliação]
+- Ana Sofia Bermudes Moreira, Faculdade de Medicina da Universidade do Porto
+- Flávio Ferreira Lino Vieira, Faculdade de Medicina da Universidade do Porto
+- Gabriela Gonçalves Carneiro, Faculdade de Medicina da Universidade do Porto
+- Maria Leonor Pereira Fernandes, Faculdade de Medicina da Universidade do Porto
+
 
 **Instituição:**
 Faculdade de Medicina da Universidade do Porto
 
 **Contacto:**
-Email: [email do grupo]
+Email: up202505760@up.pt
 
 ### Identificação do Ensaio
 
 **Tipo de estudo:** Ensaio clínico randomizado, controlado, paralelo
 
-**Data de início prevista:** [Data]
+**Data de início prevista:** 21 de março de 2026
 
-**Data de conclusão prevista:** [Data]
+**Data de conclusão prevista:** 27 de março de 2026
 
 ---
 
@@ -64,7 +66,11 @@ Estrutura sugerida:
 DICA: Podem usar o rascunho do TPC1 como base, mas refinar e expandir
 -->
 
-[ESCREVER AQUI O RACIONAL]
+A transição para o ensino superior é um período de vulnerabilidade crítica, marcado por exigências académicas e isolamento social, resultando numa prevalência crescente de sintomas depressivos. Estima-se que cerca de um terço dos universitários experiencie mal-estar psicológico significativo, contudo, as barreiras ao cuidado tradicional — como o estigma, o custo e as longas listas de espera nos serviços de psicologia — impedem que a maioria procure ajuda.
+
+Atualmente, o suporte convencional limita-se a consultas presenciais escassas ou materiais informativos passivos. Embora as intervenções digitais (dMHIs) tenham demonstrado eficácia na literatura, existe um gap no que toca a ferramentas multimodais que integrem a Terapia Cognitivo-Comportamental digital (dCBT) com a monitorização de estilos de vida (sono e atividade física) especificamente para a população académica portuguesa.
+
+O MindMove preenche esta lacuna ao oferecer uma solução escalável que atua na janela de oportunidade de sintomas ligeiros a moderados (PHQ-9 entre 5-14), prevenindo a progressão para quadros clínicos graves. A escolha do comparador (lista de espera com material estático) justifica-se por representar o standard of care atual em muitos serviços universitários, onde o apoio imediato não está disponível. Espera-se que este estudo demonstre que a monitorização ativa e o suporte guiado por app resultam numa redução superior dos sintomas face à leitura passiva de brochuras.
 
 ### 1.2 Objetivos
 
@@ -77,16 +83,16 @@ Dividir em:
 
 #### Objetivo Primário
 
-[ESCREVER OBJETIVO PRIMÁRIO]
+Avaliar a eficácia da aplicação MindMove na redução dos sintomas depressivos em estudantes universitários, medida pela variação no score da escala PHQ-9, após 8 semanas de intervenção, em comparação com um grupo de controlo em lista de espera.
 
 #### Objetivos Secundários
 
 Os objetivos secundários deste estudo são:
 
-1. [Objetivo secundário 1]
-2. [Objetivo secundário 2]
-3. [Objetivo secundário 3]
-4. [Objetivo secundário 4]
+1. Avaliar a redução dos níveis de sintomatologia ansiosa através da escala GAD-7.
+2. Monitorizar o impacto da intervenção na qualidade do sono (PSQI) e nos níveis de atividade física semanal.
+3. Determinar a taxa de adesão (engagement) e a taxa de abandono (dropout) da intervenção digital.
+4. Avaliar o nível de satisfação dos utilizadores com as funcionalidades específicas da aplicação MindMove.
 
 ---
 
@@ -110,19 +116,19 @@ Este é um ensaio clínico randomizado, controlado, de grupos paralelos.
 **Características do desenho:**
 
 - Randomização 1:1 (intervenção : controlo)
-- Duração: [X semanas/meses]
-- Setting: [descrever - ex: 1 centro de saúde, 1 USF, 1 serviço de psicologia]
-- Fase: Estudo piloto (pré-teste)
+- Duração: 8 semanas de intervenção ativa
+- Setting: Serviço de Psicologia da Universidade do Porto
+- Fase: Estudo piloto (pré-teste) para avaliar viabilidade e eficácia preliminar
 - Tamanho da amostra: 30 participantes (15 por braço)
 
 **Timeline:**
 
 | Fase | Duração | Descrição |
 |------|---------|-----------|
-| Recrutamento | [X semanas] | Identificação e seleção de participantes |
-| Baseline | [X dias] | Avaliação inicial e randomização |
-| Intervenção | [X semanas] | Período ativo de intervenção |
-| Follow-up | [X semanas] | Avaliações de outcome |
+| Recrutamento | 2 semanas | Divulgação no campus e triagem online (PHQ-9) |
+| Baseline | 1 dia | Consentimento, avaliação inicial e randomização |
+| Intervenção | 8 semanas | Uso da app MindMove (Intervenção) vs. Brochuras (Controlo) |
+| Follow-up | Semanas 4 e 8 | Avaliações intermédias e finais de outcome |
 
 [EXPANDIR CONFORME NECESSÁRIO]
 
