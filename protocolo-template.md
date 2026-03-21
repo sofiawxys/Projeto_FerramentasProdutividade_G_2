@@ -162,69 +162,39 @@ Serão excluídos do estudo indivíduos que apresentem **qualquer** dos seguinte
 O recrutamento adotará uma estratégia de amostragem de conveniência no contexto académico, utilizando uma abordagem dupla. Primeiramente, estabelecer-se-ão protocolos com os Serviços de Saúde e Apoio Psicológico de várias faculdades, cujos profissionais poderão referenciar diretamente estudantes que apresentem queixas subclínicas enquadráveis. Em segundo lugar, será conduzida uma campanha de divulgação ativa através do envio de e-mails institucionais, afixação de cartazes nos *campi* universitários e publicações nas redes sociais das Associações de Estudantes locais. Os materiais de divulgação incluirão um código QR e um *link* para uma plataforma segura (*landing page* do estudo), onde os interessados poderão consultar a folha de informação, assinar o consentimento informado digital e preencher o questionário de triagem inicial (incluindo o PHQ-9) para validação automática de elegibilidade.
 
 
-### 2.3 Intervenções
+## 2.3 Métodos: Intervenções
 
-<!--
-INSTRUÇÕES: 300-400 palavras TOTAL (ambos os braços)
-Ser detalhado: o que EXACTAMENTE os participantes vão fazer/receber
--->
+### 2.3.1 Grupo de Intervenção
+Os participantes randomizados para o grupo de intervenção receberão acesso à aplicação móvel do projeto.
 
-#### 2.3.1 Grupo de Intervenção
+**Funcionalidades principais:**
+1. **Monitorização Ativa:** O utilizador deve registar diariamente dados de saúde (ex: sintomas ou sinais vitais) na interface da app.
+2. **Sistema de Alertas:** A aplicação fornece feedback em tempo real e notificações push para relembrar a toma de medicação ou registo de dados.
+3. **Conteúdo Educativo:** Acesso a uma biblioteca digital com guias sobre a gestão da sua condição de saúde.
 
-Os participantes randomizados para o grupo de intervenção receberão:
-
-**Aplicação [Nome]:**
-
-[DESCREVER A APP EM DETALHE]
-
-Funcionalidades principais:
-
-1. [Funcionalidade 1 - descrever em detalhe]
-   - O que faz
-   - Como o participante interage
-   - Frequência de uso esperada
-
-2. [Funcionalidade 2]
-   - [Detalhe]
-
-3. [Funcionalidade 3]
-   - [Detalhe]
-
-**Instalação e Onboarding:**
-
-[DESCREVER: Como receberão a app, processo de instalação, tutorial inicial]
-
-**Suporte técnico:**
-
-[DESCREVER: Como obterão ajuda se tiverem problemas]
+**Instalação e Suporte:**
+- **Onboarding:** A instalação será realizada durante a consulta inicial com o apoio da equipa de investigação, incluindo um tutorial de utilização.
+- **Suporte Técnico:** Disponibilização de um contacto de e-mail dedicado para resolução de problemas técnicos com resposta em 24 horas.
 
 **Cuidado concomitante:**
+Os participantes mantêm o acompanhamento médico habitual, incluindo consultas programadas e medicação prescrita, sem interrupções pelo estudo.
 
-Os participantes mantêm o seu cuidado médico habitual, incluindo [especificar - consultas, medicação, etc.].
+### 2.3.2 Grupo Controlo
+Os participantes do grupo controlo receberão o cuidado padrão (Standard of Care).
 
-#### 2.3.2 Grupo Controlo
+**Descrição:**
+- Receberão apenas o acompanhamento clínico convencional do Serviço Nacional de Saúde.
+- No início do estudo, será entregue um folheto informativo em papel com recomendações gerais.
+- Não terão acesso a qualquer ferramenta digital ou app de monitorização durante o período do estudo.
 
-Os participantes randomizados para o grupo controlo receberão:
+**Justificação:**
+Este comparador é utilizado por representar a prática clínica atual, permitindo medir o benefício incremental da solução digital.
 
-[DESCREVER O COMPARADOR EM DETALHE]
-
-**[Tipo de controlo - ex: Cuidado habitual / Lista de espera / Material educativo]:**
-
-[DESCREVER EXACTAMENTE o que recebem, com que frequência, que contactos têm]
-
-**Justificação do comparador:**
-
-[EXPLICAR: Porque este é o comparador apropriado - ex: representa standard of care actual]
-
-#### 2.3.3 Critérios de Descontinuação
-
-Participantes serão retirados do estudo se:
-
-1. [Critério 1 - ex: Retirarem consentimento]
-2. [Critério 2 - ex: Desenvolverem condição que torne participação insegura]
-3. [Critério 3 - ex: Violação grave do protocolo]
-
----
+### 2.3.3 Critérios de Descontinuação
+Os participantes serão retirados do estudo se:
+1. Revogarem o consentimento informado por vontade própria;
+2. Apresentarem um agravamento clínico que exija internamento ou impeça o uso da tecnologia;
+3. Ocorrer uma violação grave do protocolo (ex: partilha da conta com terceiros).
 
 ## 3. Avaliações e Outcomes
 
