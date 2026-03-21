@@ -130,6 +130,8 @@ Este é um ensaio clínico randomizado, controlado, de grupos paralelos.
 | Intervenção | 8 semanas | Uso da app MindMove (Intervenção) vs. Brochuras (Controlo) |
 | Follow-up | Semanas 4 e 8 | Avaliações intermédias e finais de outcome |
 
+
+
 [EXPANDIR CONFORME NECESSÁRIO]
 
 ### 2.2 População do Estudo
