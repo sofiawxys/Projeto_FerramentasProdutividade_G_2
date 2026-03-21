@@ -138,28 +138,29 @@ Cada critério deve ser verificável/mensurável
 
 Serão elegíveis para participação neste estudo indivíduos que cumpram **todos** os seguintes critérios:
 
-1. [Critério idade - ex: Idade entre 18 e 65 anos]
-2. [Critério diagnóstico - ex: Diagnóstico de asma moderada persistente segundo critérios GINA]
-3. [Critério clínico específico - ex: HbA1c entre 7.0% e 9.5%]
-4. [Critério de capacidade - ex: Capacidade de usar smartphone Android ou iOS]
-5. [Critério de literacia - ex: Literacia suficiente para ler e compreender informação em português]
-6. [Critério de consentimento - ex: Capacidade e disponibilidade para fornecer consentimento informado]
-7. [Critério de disponibilidade - ex: Disponibilidade para participar durante X semanas/meses]
+1. Idade compreendida entre os 18 e os 30 anos (inclusive).
+2. Estatuto ativo de estudante universitário (matriculado numa instituição de ensino superior no ano letivo a decorrer).
+3. Presença de sintomas depressivos ligeiros a moderados, confirmados e mensurados por uma pontuação entre 5 e 14 no *Patient Health Questionnaire-9* (PHQ-9) no momento do rastreio.
+4. Posse de *smartphone* pessoal (sistema operativo Android ou iOS) com acesso diário à internet e capacidade técnica para instalar e operar a aplicação "MindMove".
+5. Literacia e proficiência na língua portuguesa suficientes para ler, compreender e executar os módulos de Terapia Cognitivo-Comportamental digital (dCBT) e os exercícios guiados.
+6. Capacidade legal e disponibilidade mental para fornecer consentimento informado voluntário antes de qualquer procedimento do estudo.
+7. Disponibilidade e compromisso para interagir diariamente com a aplicação (ex: *mood tracking*) durante a totalidade do período de intervenção.
 
 #### 2.2.2 Critérios de Exclusão
 
 Serão excluídos do estudo indivíduos que apresentem **qualquer** dos seguintes critérios:
 
-1. [Condições médicas incompatíveis - ex: Doença psiquiátrica grave não controlada]
-2. [Tratamentos concomitantes - ex: Participação noutro ensaio clínico]
-3. [Gravidez/lactação - se aplicável]
-4. [Contraindicações específicas - ex: Incapacidade de realizar peak flow]
-5. [Barreiras tecnológicas - ex: Sem acesso a smartphone ou internet]
-6. [Outras condições que comprometam participação ou segurança]
+1. Diagnóstico prévio ou atual de Depressão Major ou outras patologias psiquiátricas graves (ex: perturbação bipolar, esquizofrenia).
+2. Toma atual de qualquer medicação antidepressiva ou envolvimento em psicoterapia formal regular iniciada nos últimos 30 dias.
+3. Ideação suicida ativa, objetivamente verificada por uma pontuação de 1 ou superior na questão 9 do questionário PHQ-9.
+4. Histórico ativo de abuso de substâncias ou álcool que, de acordo com o critério do investigador, possa comprometer a adesão aos exercícios de ativação comportamental.
+5. Inexistência de condições tecnológicas básicas (falta de *smartphone* próprio ou ausência prolongada de ligação à internet).
+6. Participação simultânea num outro ensaio clínico ou estudo focado na saúde mental ou em intervenções de base tecnológica.
 
 #### 2.2.3 Processo de Recrutamento
 
-[DESCREVER: Como vão identificar e recrutar participantes - ex: através de consultas, bases de dados clínicas, anúncios, referências médicas]
+O recrutamento adotará uma estratégia de amostragem de conveniência no contexto académico, utilizando uma abordagem dupla. Primeiramente, estabelecer-se-ão protocolos com os Serviços de Saúde e Apoio Psicológico de várias faculdades, cujos profissionais poderão referenciar diretamente estudantes que apresentem queixas subclínicas enquadráveis. Em segundo lugar, será conduzida uma campanha de divulgação ativa através do envio de e-mails institucionais, afixação de cartazes nos *campi* universitários e publicações nas redes sociais das Associações de Estudantes locais. Os materiais de divulgação incluirão um código QR e um *link* para uma plataforma segura (*landing page* do estudo), onde os interessados poderão consultar a folha de informação, assinar o consentimento informado digital e preencher o questionário de triagem inicial (incluindo o PHQ-9) para validação automática de elegibilidade.
+
 
 ### 2.3 Intervenções
 
