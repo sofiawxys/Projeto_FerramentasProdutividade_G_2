@@ -1,3 +1,6 @@
 
 Documentação do Uso de LLMs durante a execução do projeto
 
+Prompts usados no gemini
+
+1. "Preenche este template: [cópia das incicações da se secção 2.3 do ficheiro de template fornecido no repositório da tp3] de acordo com estas informações: [cópia das indicações relativas à população do cenário MindMove fornecidas no Moodle] "
