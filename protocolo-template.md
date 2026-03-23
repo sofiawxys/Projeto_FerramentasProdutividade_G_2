@@ -74,25 +74,20 @@ O MindMove preenche esta lacuna ao oferecer uma solução escalável que atua na
 
 ### 1.2 Objetivos
 
-<!--
-INSTRUÇÕES: 100-150 palavras
-Dividir em:
-- Objetivo primário (1 frase clara)
-- Objetivos secundários (3-5 objetivos, lista)
--->
+O presente estudo visa investigar a viabilidade e a eficácia preliminar de uma intervenção digital baseada em *mHealth* para o apoio à saúde mental no contexto académico.
 
 #### Objetivo Primário
 
-Avaliar a eficácia da aplicação MindMove na redução dos sintomas depressivos em estudantes universitários, medida pela variação no score da escala PHQ-9, após 8 semanas de intervenção, em comparação com um grupo de controlo em lista de espera.
+Avaliar a eficácia da aplicação **MindMove** na redução dos sintomas depressivos em estudantes universitários, medida pela variação média no score da escala **PHQ-9** (*Patient Health Questionnaire-9*), entre o momento inicial (baseline) e o final da intervenção (8 semanas), em comparação com um grupo de controlo em lista de espera.
 
 #### Objetivos Secundários
 
 Os objetivos secundários deste estudo são:
 
-1. Avaliar a redução dos níveis de sintomatologia ansiosa através da escala GAD-7.
-2. Monitorizar o impacto da intervenção na qualidade do sono (PSQI) e nos níveis de atividade física semanal.
-3. Determinar a taxa de adesão (engagement) e a taxa de abandono (dropout) da intervenção digital.
-4. Avaliar o nível de satisfação dos utilizadores com as funcionalidades específicas da aplicação MindMove.
+1.  **Sintomatologia Ansiosa:** Avaliar a redução dos níveis de ansiedade através da variação da escala **GAD-7** (*Generalized Anxiety Disorder-7*).
+2.  **Bem-estar Holístico:** Monitorizar o impacto da intervenção na qualidade do sono, via **PSQI** (*Pittsburgh Sleep Quality Index*), e nos níveis de atividade física semanal (minutos de atividade moderada a vigorosa).
+3.  **Viabilidade e Adesão:** Determinar a taxa de adesão (*engagement* — frequência de uso da app), taxa de retenção e taxa de abandono (*dropout*) ao longo das 8 semanas.
+4.  **Experiência do Utilizador:** Avaliar o nível de satisfação, usabilidade (SUS - *System Usability Scale*) e aceitabilidade das funcionalidades específicas da aplicação MindMove.
 
 ---
 
@@ -100,39 +95,29 @@ Os objetivos secundários deste estudo são:
 
 ### 2.1 Desenho do Estudo
 
-<!--
-INSTRUÇÕES: 150-200 palavras
-Deve incluir:
-- Tipo de ensaio (RCT, paralelo)
-- Razão de randomização (1:1)
-- Duração total do estudo
-- Número de centros (pré-teste: 1 centro)
-- Fases do estudo (se aplicável)
-- Período de follow-up
--->
+O estudo configura-se como um **ensaio clínico controlado e randomizado (RCT)**, de grupos paralelos, com ocultação da alocação. Trata-se de um estudo piloto (fase de pré-teste) monocêntrico, a realizar no Serviço de Psicologia da Universidade do Porto.
 
-Este é um ensaio clínico randomizado, controlado, de grupos paralelos.
+O desenho segue uma razão de **randomização de 1:1** com 30 participantes, onde os participantes são alocados ou para o braço de intervenção (App MindMove) ou para o braço de controlo (Lista de Espera com brochuras informativas). A duração total da participação individual é de **10 semanas** (2 semanas de recrutamento/triagem e 8 semanas de intervenção ativa). O estudo foca-se na avaliação de resultados *superiority* da intervenção digital face ao cuidado passivo.
+
+
 
 **Características do desenho:**
 
-- Randomização 1:1 (intervenção : controlo)
-- Duração: 8 semanas de intervenção ativa
-- Setting: Serviço de Psicologia da Universidade do Porto
-- Fase: Estudo piloto (pré-teste) para avaliar viabilidade e eficácia preliminar
-- Tamanho da amostra: 30 participantes (15 por braço)
+* **Tipo de Ensaio:** RCT Paralelo, Superioridade.
+* **Alocação:** Randomização estratificada por gravidade inicial (PHQ-9) para garantir equilíbrio entre grupos.
+* **Setting:** Contexto universitário real (Universidade do Porto), facilitando a validade ecológica.
+* **Cegamento:** Devido à natureza da intervenção (App), o cegamento dos participantes não é possível, mas a análise estatística será realizada por um investigador "cego" à alocação dos grupos (*single-blind analysis*).
 
-**Timeline:**
+**Timeline e Fluxo do Estudo:**
 
 | Fase | Duração | Descrição |
-|------|---------|-----------|
-| Recrutamento | 2 semanas | Divulgação no campus e triagem online (PHQ-9) |
-| Baseline | 1 dia | Consentimento, avaliação inicial e randomização |
-| Intervenção | 8 semanas | Uso da app MindMove (Intervenção) vs. Brochuras (Controlo) |
-| Follow-up | Semanas 4 e 8 | Avaliações intermédias e finais de outcome |
-
-
-
-[EXPANDIR CONFORME NECESSÁRIO]
+| :--- | :--- | :--- |
+| **Recrutamento** | Semanas -2 a 0 | Divulgação digital e física; triagem online (Informed Consent + PHQ-9). |
+| **Baseline (T0)** | Dia 0 | Avaliação completa (PHQ-9, GAD-7, PSQI); Randomização automatizada. |
+| **Intervenção** | Semanas 1-8 | **Grupo I:** Uso da App MindMove (protocolo 3x/semana). <br> **Grupo C:** Acesso a brochuras PDF sobre higiene do sono e saúde mental. |
+| **Mid-term (T1)** | Semana 4 | Avaliação intermédia de segurança, adesão e sintomas (PHQ-9). |
+| **Post-test (T2)** | Semana 8 | Avaliação final de todos os outcomes primários e secundários. |
+| **Follow-up** | Semana 12 | (Opcional) Avaliação de manutenção de ganhos após término da intervenção. |
 
 ### 2.2 População do Estudo
 
