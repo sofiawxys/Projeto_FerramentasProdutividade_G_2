@@ -196,29 +196,23 @@ Os participantes serão retirados do estudo se:
 2. Apresentarem um agravamento clínico que exija internamento ou impeça o uso da tecnologia;
 3. Ocorrer uma violação grave do protocolo (ex: partilha da conta com terceiros).
 
-## 3. Avaliações e Outcomes
+## 3. Avaliações e Outcomes (Desfechos)
 
-<!--
-NOTA: Secção completa será desenvolvida na próxima aula
-Por agora, apenas estrutura básica
--->
+### 3.1 Outcome Primário (Ponto 6a)
+**Redução da sintomatologia depressiva**
+- **Instrumento:** Questionário *Patient Health Questionnaire-9* (PHQ-9), com pontuação total de 0 a 27.
+- **Momento de avaliação:** Baseline (T0 - recrutamento) e após 8 semanas de utilização da aplicação "MindMove" (T1).
+- **Definição de sucesso:** Redução clinicamente significativa de pelo menos 5 pontos na pontuação total ou descida de categoria de gravidade (ex: de moderada para ligeira).
 
-### 3.1 Outcome Primário
+### 3.2 Outcomes Secundários (Ponto 6b)
+Para avaliar a viabilidade e eficácia da ferramenta digital, serão medidos:
 
-[Nome do outcome - ex: ACT score]
-
-- **Instrumento:** [Nome e breve descrição]
-- **Momento de avaliação:** [Quando - ex: Baseline e 12 semanas]
-- **Definição de sucesso:** [Como será medida melhoria]
-
-### 3.2 Outcomes Secundários
-
-1. [Outcome secundário 1]
-2. [Outcome secundário 2]
-3. [Outcome secundário 3]
-
-[NOTA: Detalhe será adicionado posteriormente]
-
+1. **Usabilidade do Sistema:** Medida através do *System Usability Scale* (SUS) aplicado no momento T1 (8 semanas). Um score > 68 indica boa aceitabilidade.
+2. **Adesão e Engagement:** Extraído dos logs automáticos da aplicação "MindMove":
+   - Média de registos de humor (*mood tracking*) semanais.
+   - Percentagem de conclusão dos módulos de Terapia Cognitivo-Comportamental digital.
+3. **Bem-estar Geral:** Avaliação da qualidade de vida através do índice *WHO-5 Well-Being Index* em T0 e T1.
+4. **Segurança Clínica:** Monitorização de ideação suicida (item 9 do PHQ-9) em cada interação com a app; qualquer pontuação ≥ 1 gera um alerta automático para a equipa de investigação.
 ---
 
 ## 4. Notas de Desenvolvimento
