@@ -221,29 +221,38 @@ Por agora, apenas estrutura básica
 Como estudo pré-teste de viabilidade, o tamanho de amostra (n=30, 15 por grupo) foi determinado por:
 * Recomendações metodológicas para estudos piloto em ensaios clínicos com vista à avaliação de exequibilidade (n=10-15 por grupo é considerado aceitável para testes iniciais).
 * Capacidade estimada de recrutamento num único serviço de psicologia universitário.
-* Não foi calculado poder estatístico formal, mas 30 participantes permitem avaliar a viabilidade (ex: estimar a taxa de *dropout* e níveis de *engagement* na app) e calcular estimativas preliminares da dimensão do efeito (Cohen's d) para informar o cálculo amostral de um futuro Ensaio Clínico Randomizado em larga escala.
+* Não foi calculado poder estatístico formal, mas 30 participantes permitem avaliar a viabilidade e calcular estimativas preliminares da dimensão do efeito para informar o cálculo amostral de um futuro Ensaio Clínico Randomizado.
 
 **4.2 Análise do Outcome Primário**
 
-* **População de análise:** *Intention-to-treat* (ITT) - todos os participantes randomizados serão incluídos na análise, independentemente da sua adesão à App MindMove ou descontinuação do estudo.
+* **População de análise:** *Intention-to-treat* (ITT) - todos os participantes randomizados serão incluídos na análise, independentemente da sua adesão à App MindMove ou descontinuação.
 * **Análise principal:**
-    * Comparação da variação do score PHQ-9 (contínuo) ao longo do tempo (baseline, 4 e 8 semanas) entre os dois grupos utilizando Modelos Lineares Mistos (LMM - *Linear Mixed Models*). Esta abordagem é ideal pois acomoda dados em falta (*missing data*), muito frequentes devido às taxas de *dropout* típicas da saúde mental digital.
-    * Em alternativa/complemento, ANCOVA para comparar o score PHQ-9 às 8 semanas, ajustando para o score PHQ-9 inicial (*baseline*).
-    * Cálculo da dimensão do efeito (Cohen's d) e respetivos intervalos de confiança a 95%.
+    * Comparação da variação do score PHQ-9 ao longo do tempo (baseline, 4 e 8 semanas) entre os grupos utilizando Modelos Lineares Mistos (LMM). O modelo de base pode ser descrito pela seguinte equação:
+    
+    $$Y_{ij}=\beta_0+\beta_1\cdot\text{Grupo}_i+\beta_2\cdot\text{Tempo}_j+\beta_3\cdot(\text{Grupo}_i\times\text{Tempo}_j)+u_{0i}+\epsilon_{ij}$$
+    
+    Onde:
+    * $Y_{ij}$ representa o score PHQ-9 do participante $i$ no tempo $j$.
+    * $\beta_0$ a $\beta_3$ são os efeitos fixos (interseção, efeito do grupo, efeito do tempo e o termo de interação, respetivamente).
+    * $u_{0i}$ é o intercepto aleatório para o participante $i$ (que acomoda a variância individual).
+    * $\epsilon_{ij}$ é o erro residual.
+    
+    * Cálculo da dimensão do efeito padronizada (Cohen's d) para a diferença de médias às 8 semanas.
+
 * **Análise de sensibilidade:**
-    * *Per-protocol*: análise restrita aos participantes com um nível de *engagement* ativo mínimo pré-definido com a App (ex: acesso em pelo menos 4 das 8 semanas, conclusão de pelo menos 2 módulos dCBT) e que completaram a avaliação às 8 semanas.
-    * Tratamento de *missing data*: Avaliação dos padrões de abandono. Caso não seja assumido *Missing at Random* (MAR) nos Modelos Lineares Mistos, aplicar-se-á imputação múltipla.
+    * *Per-protocol*: análise restrita aos participantes com um nível de *engagement* ativo mínimo pré-definido com a App (ex: acesso em pelo menos 4 das 8 semanas) e que completaram a avaliação final.
+    * Tratamento de *missing data*: Avaliação dos padrões de abandono. O LMM assume inerentemente que os dados omissos são *Missing at Random* (MAR); caso esta premissa seja violada, aplicar-se-á imputação múltipla.
 
 **4.3 Análise dos Outcomes Secundários**
 
 * **Variáveis contínuas** (GAD-7, Nível de atividade física, PSQI):
-    * Modelos Lineares Mistos ou ANCOVA ajustando para os valores no *baseline*.
-    * Teste t de Student para amostras independentes (ou teste não paramétrico de Mann-Whitney, caso se verifique violação da normalidade) para comparar pontuações em *timepoints* específicos.
+    * LMM ou ANCOVA ajustando para os valores no baseline.
+    * Teste t de Student para amostras independentes (ou teste não paramétrico de Mann-Whitney) para comparar pontuações em *timepoints* específicos.
 * **Adesão, *Engagement* e Satisfação** (focado no grupo intervenção):
-    * Análise descritiva detalhada (médias, medianas, desvios-padrão, intervalos interquartis) para tempo de uso da app, frequência de diários de humor preenchidos e módulos completados.
+    * Análise descritiva detalhada (médias, medianas, desvios-padrão, intervalos interquartis) para tempo de uso da app e módulos completados.
 * **Taxa de *dropout*:**
-    * Comparação da proporção de desistências entre o grupo da intervenção e o grupo de lista de espera utilizando o teste Qui-quadrado (ou teste exato de Fisher, considerando que N<30).
-* **Nível de significância:** α=0.05 (bilateral), sem aplicação de ajustes estatísticos para múltiplas comparações, dado o caráter piloto, exploratório e de pré-teste deste estudo.
+    * Comparação da proporção de desistências entre os grupos utilizando o teste Qui-quadrado (ou teste exato de Fisher, considerando que N<30).
+* **Nível de significância:** α=0.05 (bilateral), sem aplicação de ajustes estatísticos para múltiplas comparações, dado o caráter piloto e exploratório deste estudo.
 
 ## Notas de Desenvolvimento
 
