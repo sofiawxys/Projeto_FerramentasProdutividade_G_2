@@ -6,7 +6,7 @@ Tarefas Gerais- Primeira Entrega
 [*] Elaborar/colocar as secções 1 a 8 no relatório em md (estruturar e guardar os prompts das LLMs na Documentacao_uso_IA, importante: incluir pelo menos 1 tabela ou equação)
 [*] Fazer a parte das referências no Zottero
 [ ] Fazer o fluxograma CONSORT
-[ ] Fazer os diagramas de atividades, casos de uso e sequência
+[*] Fazer os diagramas de atividades, casos de uso e sequência
 [ ] Conversão do protocolo para Word (correção manual de desformatações e adição de indice automático, entre outros requisitos)
 [ ] Conversão do protocolo para LaTeX (correção manual de desformatações e especial atenção no uso do formato .bib nas referências)
 [ ] Rever e refinar todo o documento
@@ -17,7 +17,7 @@ Tarefas individuais
 Ana Sofia:
 [X] Secção população do protocolo
 [X] Secção análise estatística do protocolo
-[ ] Diagrama de casos de uso para as funcionalidades da app do ensaio
+[*] Diagrama de casos de uso para as funcionalidades da app do ensaio
 
 Gabriela:
 [X] Secção título e racional do protocolo
