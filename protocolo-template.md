@@ -228,11 +228,11 @@ Como estudo pré-teste de viabilidade, o tamanho de amostra (n=30, 15 por grupo)
 * **População de análise:** *Intention-to-treat* (ITT) - todos os participantes randomizados serão incluídos na análise, independentemente da sua adesão à App MindMove ou descontinuação.
 * **Análise principal:**
     * Comparação da variação do score PHQ-9 ao longo do tempo (baseline, 4 e 8 semanas) entre os grupos utilizando Modelos Lineares Mistos (LMM). O modelo de base pode ser descrito pela seguinte equação:
-    
-    $$Y_{ij}=\beta_0+\beta_1\cdot\text{Grupo}_i+\beta_2\cdot\text{Tempo}_j+\beta_3\cdot(\text{Grupo}_i\times\text{Tempo}_j)+u_{0i}+\epsilon_{ij}$$
-    
-    Onde:
-    * $Y_{ij}$ representa o score PHQ-9 do participante $i$ no tempo $j$.
+
+      $$Y_{ij}=\beta_0+\beta_1\cdot\text{Grupo}_i+\beta_2\cdot\text{Tempo}_j+\beta_3\cdot(\text{Grupo}_i\times\text{Tempo}_j)+u_{0i}+\epsilon_{ij}$$
+
+    * Onde:
+        * $Y_{ij}$ representa o score PHQ-9 do participante $i$ no tempo $j$.
     * $\beta_0$ a $\beta_3$ são os efeitos fixos (interseção, efeito do grupo, efeito do tempo e o termo de interação, respetivamente).
     * $u_{0i}$ é o intercepto aleatório para o participante $i$ (que acomoda a variância individual).
     * $\epsilon_{ij}$ é o erro residual.
