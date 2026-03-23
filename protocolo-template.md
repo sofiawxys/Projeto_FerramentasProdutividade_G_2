@@ -206,6 +206,37 @@ Para avaliar a viabilidade e eficácia da ferramenta digital, serão medidos:
    - Percentagem de conclusão dos módulos de Terapia Cognitivo-Comportamental digital.
 3. **Bem-estar Geral:** Avaliação da qualidade de vida através do índice *WHO-5 Well-Being Index* em T0 e T1.
 4. **Segurança Clínica:** Monitorização de ideação suicida (item 9 do PHQ-9) em cada interação com a app; qualquer pontuação ≥ 1 gera um alerta automático para a equipa de investigação.
+
+### 3.3 Arquitetura de Sequência da Funcionalidade de Humor
+
+```mermaid
+sequenceDiagram
+    autonumber
+    participant U as Estudante (Utilizador)
+    participant A as App MindMove (Client)
+    participant S as Servidor (Backend)
+    participant DB as Base de Dados (Storage)
+    participant E as Equipa de Investigação
+
+    U->>A: Insere humor e item 9 (PHQ-9)
+    A->>S: HTTPS POST (Dados encriptados + Token)
+    
+    Note over S: Algoritmo de Triagem de Risco
+    S->>S: Analisa pontuação (Risco Suicida?)
+
+    alt Risco Detetado (Score >= 1 no Item 9)
+        S->>E: Alerta Crítico (E-mail/Dashboard)
+        S->>A: Resposta 200 OK + Protocolo Emergência
+        A->>U: Exibe contactos de ajuda imediata
+    else Risco Baixo/Normal
+        S->>DB: Persistir Registo (Humor + Timestamp)
+        DB-->>S: ACK (Confirmado)
+        S-->>A: Resposta 200 OK (Sucesso)
+        A->>U: Exibe "Registo Concluído" + Reforço Positivo
+    end
+Figura 1. Diagrama de sequência da funcionalidade de monitorização de humor na aplicação MindMove.
+
+Legenda: O diagrama detalha a interação entre o cliente (App MindMove) e o backend (Servidor), destacando o protocolo de segurança HTTPS para proteção de dados sensíveis. É evidenciado o mecanismo de triagem automática baseado no Item 9 do PHQ-9, que permite a ativação de protocolos de emergência e o alerta imediato à equipa de investigação em caso de deteção de risco clínico elevado.
 ---
 
 ### 4. Análise Estatística
