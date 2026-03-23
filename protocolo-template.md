@@ -1,7 +1,7 @@
 ---
-title: "[Nome do Cenário]: Ensaio Clínico Randomizado"
-author: "Grupo X - Turma Y"
-date: "2026-03-03"
+title: " MindMove: Ensaio Clínico Randomizado"
+author: "Grupo 2 - Turma 1"
+date: "2026-03-27"
 ---
 
 # Protocolo de Ensaio Clínico
@@ -18,32 +18,34 @@ versus Cuidado Habitual no Controlo da Asma em Adultos: Um Ensaio Clínico
 Randomizado"
 -->
 
-[ESCREVER AQUI O TÍTULO COMPLETO]
+Eficácia de uma Intervenção Digital Multimodal (MindMove) na Redução de Sintomas Depressivos em Estudantes Universitários: Um Estudo Controlado Randomizado
 
 ### Título Abreviado
 
-[TÍTULO CURTO - máx 50 caracteres]
+MindMove: Ensaio Clínico em Saúde Mental Digital
 
 ### Autores e Afiliações
 
 **Investigadores Principais:**
-- [Nome 1], [Afiliação]
-- [Nome 2], [Afiliação]
-- [Nome 3], [Afiliação]
+- Ana Sofia Bermudes Moreira, Faculdade de Medicina da Universidade do Porto
+- Flávio Ferreira Lino Vieira, Faculdade de Medicina da Universidade do Porto
+- Gabriela Gonçalves Carneiro, Faculdade de Medicina da Universidade do Porto
+- Maria Leonor Pereira Fernandes, Faculdade de Medicina da Universidade do Porto
+
 
 **Instituição:**
 Faculdade de Medicina da Universidade do Porto
 
 **Contacto:**
-Email: [email do grupo]
+Email: up202505760@up.pt
 
 ### Identificação do Ensaio
 
 **Tipo de estudo:** Ensaio clínico randomizado, controlado, paralelo
 
-**Data de início prevista:** [Data]
+**Data de início prevista:** 21 de março de 2026
 
-**Data de conclusão prevista:** [Data]
+**Data de conclusão prevista:** 27 de março de 2026
 
 ---
 
@@ -64,29 +66,28 @@ Estrutura sugerida:
 DICA: Podem usar o rascunho do TPC1 como base, mas refinar e expandir
 -->
 
-[ESCREVER AQUI O RACIONAL]
+A transição para o ensino superior é um período de vulnerabilidade crítica, marcado por exigências académicas e isolamento social, resultando numa prevalência crescente de sintomas depressivos. Estima-se que cerca de um terço dos universitários experiencie mal-estar psicológico significativo, contudo, as barreiras ao cuidado tradicional — como o estigma, o custo e as longas listas de espera nos serviços de psicologia — impedem que a maioria procure ajuda.
+
+Atualmente, o suporte convencional limita-se a consultas presenciais escassas ou materiais informativos passivos. Embora as intervenções digitais (dMHIs) tenham demonstrado eficácia na literatura, existe um gap no que toca a ferramentas multimodais que integrem a Terapia Cognitivo-Comportamental digital (dCBT) com a monitorização de estilos de vida (sono e atividade física) especificamente para a população académica portuguesa.
+
+O MindMove preenche esta lacuna ao oferecer uma solução escalável que atua na janela de oportunidade de sintomas ligeiros a moderados (PHQ-9 entre 5-14), prevenindo a progressão para quadros clínicos graves. A escolha do comparador (lista de espera com material estático) justifica-se por representar o standard of care atual em muitos serviços universitários, onde o apoio imediato não está disponível. Espera-se que este estudo demonstre que a monitorização ativa e o suporte guiado por app resultam numa redução superior dos sintomas face à leitura passiva de brochuras.
 
 ### 1.2 Objetivos
 
-<!--
-INSTRUÇÕES: 100-150 palavras
-Dividir em:
-- Objetivo primário (1 frase clara)
-- Objetivos secundários (3-5 objetivos, lista)
--->
+O presente estudo visa investigar a viabilidade e a eficácia preliminar de uma intervenção digital baseada em *mHealth* para o apoio à saúde mental no contexto académico.
 
 #### Objetivo Primário
 
-[ESCREVER OBJETIVO PRIMÁRIO]
+Avaliar a eficácia da aplicação **MindMove** na redução dos sintomas depressivos em estudantes universitários, medida pela variação média no score da escala **PHQ-9** (*Patient Health Questionnaire-9*), entre o momento inicial (baseline) e o final da intervenção (8 semanas), em comparação com um grupo de controlo em lista de espera.
 
 #### Objetivos Secundários
 
 Os objetivos secundários deste estudo são:
 
-1. [Objetivo secundário 1]
-2. [Objetivo secundário 2]
-3. [Objetivo secundário 3]
-4. [Objetivo secundário 4]
+1.  **Sintomatologia Ansiosa:** Avaliar a redução dos níveis de ansiedade através da variação da escala **GAD-7** (*Generalized Anxiety Disorder-7*).
+2.  **Bem-estar Holístico:** Monitorizar o impacto da intervenção na qualidade do sono, via **PSQI** (*Pittsburgh Sleep Quality Index*), e nos níveis de atividade física semanal (minutos de atividade moderada a vigorosa).
+3.  **Viabilidade e Adesão:** Determinar a taxa de adesão (*engagement* — frequência de uso da app), taxa de retenção e taxa de abandono (*dropout*) ao longo das 8 semanas.
+4.  **Experiência do Utilizador:** Avaliar o nível de satisfação, usabilidade (SUS - *System Usability Scale*) e aceitabilidade das funcionalidades específicas da aplicação MindMove.
 
 ---
 
@@ -94,37 +95,29 @@ Os objetivos secundários deste estudo são:
 
 ### 2.1 Desenho do Estudo
 
-<!--
-INSTRUÇÕES: 150-200 palavras
-Deve incluir:
-- Tipo de ensaio (RCT, paralelo)
-- Razão de randomização (1:1)
-- Duração total do estudo
-- Número de centros (pré-teste: 1 centro)
-- Fases do estudo (se aplicável)
-- Período de follow-up
--->
+O estudo configura-se como um **ensaio clínico controlado e randomizado (RCT)**, de grupos paralelos, com ocultação da alocação. Trata-se de um estudo piloto (fase de pré-teste) monocêntrico, a realizar no Serviço de Psicologia da Universidade do Porto.
 
-Este é um ensaio clínico randomizado, controlado, de grupos paralelos.
+O desenho segue uma razão de **randomização de 1:1** com 30 participantes, onde os participantes são alocados ou para o braço de intervenção (App MindMove) ou para o braço de controlo (Lista de Espera com brochuras informativas). A duração total da participação individual é de **10 semanas** (2 semanas de recrutamento/triagem e 8 semanas de intervenção ativa). O estudo foca-se na avaliação de resultados *superiority* da intervenção digital face ao cuidado passivo.
+
+
 
 **Características do desenho:**
 
-- Randomização 1:1 (intervenção : controlo)
-- Duração: [X semanas/meses]
-- Setting: [descrever - ex: 1 centro de saúde, 1 USF, 1 serviço de psicologia]
-- Fase: Estudo piloto (pré-teste)
-- Tamanho da amostra: 30 participantes (15 por braço)
+* **Tipo de Ensaio:** RCT Paralelo, Superioridade.
+* **Alocação:** Randomização estratificada por gravidade inicial (PHQ-9) para garantir equilíbrio entre grupos.
+* **Setting:** Contexto universitário real (Universidade do Porto), facilitando a validade ecológica.
+* **Cegamento:** Devido à natureza da intervenção (App), o cegamento dos participantes não é possível, mas a análise estatística será realizada por um investigador "cego" à alocação dos grupos (*single-blind analysis*).
 
-**Timeline:**
+**Timeline e Fluxo do Estudo:**
 
 | Fase | Duração | Descrição |
-|------|---------|-----------|
-| Recrutamento | [X semanas] | Identificação e seleção de participantes |
-| Baseline | [X dias] | Avaliação inicial e randomização |
-| Intervenção | [X semanas] | Período ativo de intervenção |
-| Follow-up | [X semanas] | Avaliações de outcome |
-
-[EXPANDIR CONFORME NECESSÁRIO]
+| :--- | :--- | :--- |
+| **Recrutamento** | Semanas -2 a 0 | Divulgação digital e física; triagem online (Informed Consent + PHQ-9). |
+| **Baseline (T0)** | Dia 0 | Avaliação completa (PHQ-9, GAD-7, PSQI); Randomização automatizada. |
+| **Intervenção** | Semanas 1-8 | **Grupo I:** Uso da App MindMove (protocolo 3x/semana). <br> **Grupo C:** Acesso a brochuras PDF sobre higiene do sono e saúde mental. |
+| **Mid-term (T1)** | Semana 4 | Avaliação intermédia de segurança, adesão e sintomas (PHQ-9). |
+| **Post-test (T2)** | Semana 8 | Avaliação final de todos os outcomes primários e secundários. |
+| **Follow-up** | Semana 12 | (Opcional) Avaliação de manutenção de ganhos após término da intervenção. |
 
 ### 2.2 População do Estudo
 
@@ -215,7 +208,44 @@ Para avaliar a viabilidade e eficácia da ferramenta digital, serão medidos:
 4. **Segurança Clínica:** Monitorização de ideação suicida (item 9 do PHQ-9) em cada interação com a app; qualquer pontuação ≥ 1 gera um alerta automático para a equipa de investigação.
 ---
 
-## 4. Notas de Desenvolvimento
+### 4. Análise Estatística
+
+**4.1 Tamanho da Amostra**
+
+Como estudo pré-teste de viabilidade, o tamanho de amostra (n=30, 15 por grupo) foi determinado por:
+* Recomendações metodológicas para estudos piloto em ensaios clínicos com vista à avaliação de exequibilidade (n=10-15 por grupo é considerado aceitável para testes iniciais).
+* Capacidade estimada de recrutamento num único serviço de psicologia universitário.
+* Não foi calculado poder estatístico formal, mas 30 participantes permitem avaliar a viabilidade e calcular estimativas preliminares da dimensão do efeito para informar o cálculo amostral de um futuro Ensaio Clínico Randomizado.
+
+**4.2 Análise do Outcome Primário**
+
+* **População de análise:** *Intention-to-treat* (ITT) - todos os participantes randomizados serão incluídos na análise, independentemente da sua adesão à App MindMove ou descontinuação.
+* **Análise principal:**
+    * Comparação da variação do score PHQ-9 ao longo do tempo (*baseline*, 4 e 8 semanas) entre os grupos utilizando Modelos Lineares Mistos (LMM) para acomodar *missing data*.
+    * Cálculo da dimensão do efeito padronizada (Cohen's $d$) para a diferença de médias às 8 semanas, de forma a informar o cálculo amostral futuro. A estimativa será calculada através da seguinte equação:
+
+    $$d=\frac{M_1-M_2}{DP_{agrupado}}$$
+
+    * Onde:
+        * $M_1$ e $M_2$ são as médias do score PHQ-9 nos grupos de intervenção e controlo, respetivamente.
+        * $DP_{agrupado}$ é o desvio-padrão agrupado de ambos os grupos.
+
+* **Análise de sensibilidade:**
+    * *Per-protocol*: análise restrita aos participantes com um nível de *engagement* ativo mínimo pré-definido com a App (ex: acesso em pelo menos 4 das 8 semanas) e que completaram a avaliação final.
+    * Tratamento de *missing data*: Avaliação dos padrões de abandono. O LMM assume inerentemente que os dados omissos são *Missing at Random* (MAR); caso esta premissa seja violada, aplicar-se-á imputação múltipla.
+
+**4.3 Análise dos Outcomes Secundários**
+
+* **Variáveis contínuas** (GAD-7, Nível de atividade física, PSQI):
+    * LMM ou ANCOVA ajustando para os valores no *baseline*.
+    * Teste $t$ de Student para amostras independentes (ou teste não paramétrico de Mann-Whitney) para comparar pontuações em *timepoints* específicos.
+* **Adesão, *Engagement* e Satisfação** (focado no grupo intervenção):
+    * Análise descritiva detalhada (médias, medianas, desvios-padrão, intervalos interquartis) para tempo de uso da app e módulos completados.
+* **Taxa de *dropout*:**
+    * Comparação da proporção de desistências entre os grupos utilizando o teste Qui-quadrado (ou teste exato de Fisher, considerando que N<30).
+* **Nível de significância:** $\alpha=0.05$ (bilateral), sem aplicação de ajustes estatísticos para múltiplas comparações, dado o caráter piloto e exploratório deste estudo.
+
+## Notas de Desenvolvimento
 
 <!--
 ESTA SECÇÃO NÃO VAI PARA O PROTOCOLO FINAL
