@@ -227,17 +227,14 @@ Como estudo pré-teste de viabilidade, o tamanho de amostra (n=30, 15 por grupo)
 
 * **População de análise:** *Intention-to-treat* (ITT) - todos os participantes randomizados serão incluídos na análise, independentemente da sua adesão à App MindMove ou descontinuação.
 * **Análise principal:**
-    * Comparação da variação do score PHQ-9 ao longo do tempo (baseline, 4 e 8 semanas) entre os grupos utilizando Modelos Lineares Mistos (LMM). O modelo de base pode ser descrito pela seguinte equação:
+    * Comparação da variação do score PHQ-9 ao longo do tempo (*baseline*, 4 e 8 semanas) entre os grupos utilizando Modelos Lineares Mistos (LMM) para acomodar *missing data*.
+    * Cálculo da dimensão do efeito padronizada (Cohen's $d$) para a diferença de médias às 8 semanas, de forma a informar o cálculo amostral futuro. A estimativa será calculada através da seguinte equação:
 
-      $$Y_{ij}=\beta_0+\beta_1\cdot\text{Grupo}_i+\beta_2\cdot\text{Tempo}_j+\beta_3\cdot(\text{Grupo}_i\times\text{Tempo}_j)+u_{0i}+\epsilon_{ij}$$
+    $$d=\frac{M_1-M_2}{DP_{agrupado}}$$
 
     * Onde:
-        * $Y_{ij}$ representa o score PHQ-9 do participante $i$ no tempo $j$.
-    * $\beta_0$ a $\beta_3$ são os efeitos fixos (interseção, efeito do grupo, efeito do tempo e o termo de interação, respetivamente).
-    * $u_{0i}$ é o intercepto aleatório para o participante $i$ (que acomoda a variância individual).
-    * $\epsilon_{ij}$ é o erro residual.
-    
-    * Cálculo da dimensão do efeito padronizada (Cohen's d) para a diferença de médias às 8 semanas.
+        * $M_1$ e $M_2$ são as médias do score PHQ-9 nos grupos de intervenção e controlo, respetivamente.
+        * $DP_{agrupado}$ é o desvio-padrão agrupado de ambos os grupos.
 
 * **Análise de sensibilidade:**
     * *Per-protocol*: análise restrita aos participantes com um nível de *engagement* ativo mínimo pré-definido com a App (ex: acesso em pelo menos 4 das 8 semanas) e que completaram a avaliação final.
@@ -246,13 +243,13 @@ Como estudo pré-teste de viabilidade, o tamanho de amostra (n=30, 15 por grupo)
 **4.3 Análise dos Outcomes Secundários**
 
 * **Variáveis contínuas** (GAD-7, Nível de atividade física, PSQI):
-    * LMM ou ANCOVA ajustando para os valores no baseline.
-    * Teste t de Student para amostras independentes (ou teste não paramétrico de Mann-Whitney) para comparar pontuações em *timepoints* específicos.
+    * LMM ou ANCOVA ajustando para os valores no *baseline*.
+    * Teste $t$ de Student para amostras independentes (ou teste não paramétrico de Mann-Whitney) para comparar pontuações em *timepoints* específicos.
 * **Adesão, *Engagement* e Satisfação** (focado no grupo intervenção):
     * Análise descritiva detalhada (médias, medianas, desvios-padrão, intervalos interquartis) para tempo de uso da app e módulos completados.
 * **Taxa de *dropout*:**
     * Comparação da proporção de desistências entre os grupos utilizando o teste Qui-quadrado (ou teste exato de Fisher, considerando que N<30).
-* **Nível de significância:** α=0.05 (bilateral), sem aplicação de ajustes estatísticos para múltiplas comparações, dado o caráter piloto e exploratório deste estudo.
+* **Nível de significância:** $\alpha=0.05$ (bilateral), sem aplicação de ajustes estatísticos para múltiplas comparações, dado o caráter piloto e exploratório deste estudo.
 
 ## Notas de Desenvolvimento
 
