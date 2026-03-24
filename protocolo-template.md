@@ -279,4 +279,4 @@ Os resultados deste ensaio clínico serão comunicados independentemente da magn
 
 **Versão:** 1.0  
 **Data desta versão:** 24/03/2026
-**Autores desta versão:** Ana Moreira, Flávio Vieira, Gabriela Carneiro, Maria Leonor Gonçalves
+**Autores desta versão:** Ana Moreira, Flávio Vieira, Gabriela Carneiro, Maria Leonor Fernandes
