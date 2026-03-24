@@ -12,3 +12,6 @@ Gemini 1.5 Flash (Google DeepMind), via interface web, com acesso realizado em [
 estou a fazer um protocolo SPIRIT para um ensaio clínico randomizado.
 Gera os objetivos e os desenhos de estudo escritos em forma MarkDown, usando o template seguinte:
 "[cópia das indicações da secção 1.2 e 2.1 do ficheiro de template fornecido no repositório da tp3+cópia das indicações sobre os objetivos do cenário MindMove fornecidas no Moodle]"
+Gemini 1.5 Flash (Google DeepMind), via interface web, com acesso realizado em [24/03/2026]:
+estou a fazer um protocolo SPIRIT para um ensaio clínico randomizado.
+Gera apenas a Secção de ética e disseminação do protocolo, escritos em forma MarkDown [+ cópia na íntegra do protocolo desenvolvido pelo grupo]

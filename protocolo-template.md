@@ -245,6 +245,39 @@ Como estudo pré-teste de viabilidade, o tamanho de amostra (n=30, 15 por grupo)
     * Comparação da proporção de desistências entre os grupos utilizando o teste Qui-quadrado (ou teste exato de Fisher, considerando que N<30).
 * **Nível de significância:** $\alpha=0.05$ (bilateral), sem aplicação de ajustes estatísticos para múltiplas comparações, dado o caráter piloto e exploratório deste estudo.
 
+Aqui está a secção de **Ética e Disseminação** para o seu protocolo SPIRIT, redigida de acordo com as normas internacionais de boas práticas em investigação clínica e adaptada ao contexto do projeto **MindMove**.
+
+---
+
+## 5. Ética e Disseminação
+
+### 5.1 Aprovação Ética
+O protocolo do estudo, o formulário de consentimento informado e os materiais de recrutamento serão submetidos para revisão e aprovação à **Comissão de Ética da Faculdade de Medicina da Universidade do Porto (FMUP)**. Qualquer emenda ao protocolo que possa afetar a segurança dos participantes, o desenho do estudo ou os objetivos científicos será submetida como adenda para aprovação prévia antes da sua implementação.
+
+### 5.2 Consentimento Informado
+O processo de consentimento será realizado de forma digital através da *landing page* do estudo. 
+* Os potenciais participantes terão acesso a uma **Folha de Informação ao Participante** detalhada, explicando os objetivos, procedimentos, riscos (mínimos) e benefícios.
+* Será garantido o direito de retirada de consentimento a qualquer momento, sem necessidade de justificação e sem qualquer prejuízo académico ou clínico.
+* A assinatura digital será obrigatória antes do preenchimento de qualquer questionário de triagem ou acesso à aplicação.
+
+### 5.3 Confidencialidade e Gestão de Dados
+Todos os dados recolhidos serão tratados em estrita conformidade com o **Regulamento Geral sobre a Proteção de Dados (RGPD)**.
+* **Anonimização:** A cada participante será atribuído um código de identificação único ($ID$). A chave de ligação entre o $ID$ e a identidade real será armazenada num ficheiro encriptado, acessível apenas ao Investigador Principal.
+* **Armazenamento:** Os dados da aplicação e dos questionários serão alojados em servidores seguros com acesso restrito.
+* **Segurança:** Toda a transmissão de dados entre a app e o servidor será protegida por protocolos de encriptação SSL.
+
+### 5.4 Monitorização de Segurança
+Embora a intervenção seja de baixo risco, o bem-estar dos estudantes é prioritário:
+* **Alerta de Risco:** Se um participante pontuar $\ge 1$ na questão 9 do PHQ-9 (ideação suicida) ou apresentar um agravamento severo dos sintomas ($\ge 20$ no PHQ-9), o sistema enviará um alerta imediato à equipa clínica do projeto.
+* **Protocolo de Resgate:** Nestes casos, o participante será contactado num prazo de 24 horas por um profissional de saúde mental da equipa para encaminhamento prioritário para os serviços de psicologia da universidade ou urgência psiquiátrica.
+
+### 5.5 Disseminação
+Os resultados deste ensaio clínico serão comunicados independentemente da magnitude ou direção do efeito:
+* **Publicação Científica:** Submissão dos resultados a revistas de especialidade com revisão por pares (*peer-review*) nas áreas de Saúde Mental Digital ou Psicologia Clínica.
+* **Comunidade Académica:** Apresentação em congressos nacionais e internacionais.
+* **Participantes:** Será elaborado um relatório síntese com os resultados agregados, a ser enviado a todos os participantes que manifestem interesse no final do estudo.
+
+---
 ## Notas de Desenvolvimento
 
 <!--
