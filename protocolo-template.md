@@ -114,7 +114,7 @@ O desenho segue uma razão de **randomização de 1:1** com 30 participantes, on
 | :--- | :--- | :--- |
 | **Recrutamento** | Semanas -2 a 0 | Divulgação digital e física; triagem online (Informed Consent + PHQ-9). |
 | **Baseline (T0)** | Dia 0 | Avaliação completa (PHQ-9, GAD-7, PSQI); Randomização automatizada. |
-| **Intervenção** | Semanas 1-8 | **Grupo I:** Uso da App MindMove (protocolo 3x/semana). <br> **Grupo C:** Acesso a brochuras PDF sobre higiene do sono e saúde mental. |
+| **Intervenção** | Semanas 1-8 | **Grupo I:** Uso da App MindMove (protocolo 3x/semana). **Grupo C:** Acesso a brochuras PDF sobre higiene do sono e saúde mental. |
 | **Mid-term (T1)** | Semana 4 | Avaliação intermédia de segurança, adesão e sintomas (PHQ-9). |
 | **Post-test (T2)** | Semana 8 | Avaliação final de todos os outcomes primários e secundários. |
 | **Follow-up** | Semana 12 | (Opcional) Avaliação de manutenção de ganhos após término da intervenção. |
