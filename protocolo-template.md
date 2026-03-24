@@ -245,8 +245,6 @@ Como estudo pré-teste de viabilidade, o tamanho de amostra (n=30, 15 por grupo)
     * Comparação da proporção de desistências entre os grupos utilizando o teste Qui-quadrado (ou teste exato de Fisher, considerando que N<30).
 * **Nível de significância:** $\alpha=0.05$ (bilateral), sem aplicação de ajustes estatísticos para múltiplas comparações, dado o caráter piloto e exploratório deste estudo.
 
-Aqui está a secção de **Ética e Disseminação** para o seu protocolo SPIRIT, redigida de acordo com as normas internacionais de boas práticas em investigação clínica e adaptada ao contexto do projeto **MindMove**.
-
 ---
 
 ## 5. Ética e Disseminação
