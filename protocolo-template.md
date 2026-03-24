@@ -114,7 +114,7 @@ O desenho segue uma razão de **randomização de 1:1** com 30 participantes, on
 | :--- | :--- | :--- |
 | **Recrutamento** | Semanas -2 a 0 | Divulgação digital e física; triagem online (Informed Consent + PHQ-9). |
 | **Baseline (T0)** | Dia 0 | Avaliação completa (PHQ-9, GAD-7, PSQI); Randomização automatizada. |
-| **Intervenção** | Semanas 1-8 | **Grupo I:** Uso da App MindMove (protocolo 3x/semana). <br> **Grupo C:** Acesso a brochuras PDF sobre higiene do sono e saúde mental. |
+| **Intervenção** | Semanas 1-8 | **Grupo I:** Uso da App MindMove (protocolo 3x/semana). **Grupo C:** Acesso a brochuras PDF sobre higiene do sono e saúde mental. |
 | **Mid-term (T1)** | Semana 4 | Avaliação intermédia de segurança, adesão e sintomas (PHQ-9). |
 | **Post-test (T2)** | Semana 8 | Avaliação final de todos os outcomes primários e secundários. |
 | **Follow-up** | Semana 12 | (Opcional) Avaliação de manutenção de ganhos após término da intervenção. |
@@ -276,32 +276,7 @@ Os resultados deste ensaio clínico serão comunicados independentemente da magn
 * **Participantes:** Será elaborado um relatório síntese com os resultados agregados, a ser enviado a todos os participantes que manifestem interesse no final do estudo.
 
 ---
-## Notas de Desenvolvimento
-
-<!--
-ESTA SECÇÃO NÃO VAI PARA O PROTOCOLO FINAL
-É para vosso uso durante desenvolvimento
--->
-
-### Decisões Pendentes
-
-- [ ] [Decisão 1 a tomar]
-- [ ] [Decisão 2 a tomar]
-
-### Dúvidas para Esclarecer
-
-- [Dúvida 1]
-- [Dúvida 2]
-
-### Próximos Passos
-
-- [ ] Adicionar referências bibliográficas (TP4)
-- [ ] Completar secção de outcomes (TP5)
-- [ ] Adicionar análise estatística (TP5)
-- [ ] Rever e refinar todo o documento
-
----
 
 **Versão:** 1.0  
-**Data desta versão:** [Data]  
-**Autores desta versão:** [Nomes]
+**Data desta versão:** 24/03/2026
+**Autores desta versão:** Ana Moreira, Flávio Vieira, Gabriela Carneiro, Maria Leonor Fernandes
