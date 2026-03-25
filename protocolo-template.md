@@ -168,13 +168,13 @@ Os participantes serão retirados do estudo se:
 
 ## 3. Avaliações e Outcomes (Desfechos)
 
-### 3.1 Outcome Primário (Ponto 6a)
+### 3.1 Outcome Primário 
 **Redução da sintomatologia depressiva**
 - **Instrumento:** Questionário *Patient Health Questionnaire-9* (PHQ-9) [@kroenkePHQ9ValidityBrief2001], com pontuação total de 0 a 27.
 - **Momento de avaliação:** Baseline (T0 - recrutamento) e após 8 semanas de utilização da aplicação "MindMove" (T1).
 - **Definição de sucesso:** Redução clinicamente significativa de pelo menos 5 pontos na pontuação total ou descida de categoria de gravidade (ex: de moderada para ligeira).
 
-### 3.2 Outcomes Secundários (Ponto 6b)
+### 3.2 Outcomes Secundários 
 Para avaliar a viabilidade e eficácia da ferramenta digital, serão medidos:
 
 1. **Usabilidade do Sistema:** Medida através do *System Usability Scale* (SUS) aplicado no momento T1 (8 semanas). Um score > 68 indica boa aceitabilidade.
