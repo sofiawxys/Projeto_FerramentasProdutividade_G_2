@@ -10,14 +10,6 @@ date: "2026-03-27"
 
 ### Título do Estudo
 
-<!-- 
-INSTRUÇÕES: Escrever título completo e descritivo (50-100 palavras)
-Deve incluir: População, Intervenção, Comparador, Outcome
-Exemplo: "Eficácia de uma Aplicação Móvel de Monitorização de Sintomas (RespiRA) 
-versus Cuidado Habitual no Controlo da Asma em Adultos: Um Ensaio Clínico 
-Randomizado"
--->
-
 Eficácia de uma Intervenção Digital Multimodal (MindMove) na Redução de Sintomas Depressivos em Estudantes Universitários: Um Estudo Controlado Randomizado
 
 ### Título Abreviado
@@ -53,18 +45,6 @@ Email: up202505760@up.pt
 
 ### 1.1 Racional
 
-<!--
-INSTRUÇÕES: 300-400 palavras
-Estrutura sugerida:
-1. Magnitude do problema de saúde (dados epidemiológicos)
-2. Limitações do cuidado actual/convencional
-3. Evidência sobre intervenções digitais/apps nesta área
-4. Gap específico que este estudo pretende preencher
-5. Justificação da escolha do comparador
-6. Relevância clínica e impacto esperado
-
-DICA: Podem usar o rascunho do TPC1 como base, mas refinar e expandir
--->
 
 A transição para o ensino superior é um período de vulnerabilidade crítica, marcado por exigências académicas e isolamento social, resultando numa prevalência crescente de sintomas depressivos. Estima-se que cerca de um terço dos universitários experiencie mal-estar psicológico significativo, contudo, as barreiras ao cuidado tradicional — como o estigma, o custo e as longas listas de espera nos serviços de psicologia — impedem que a maioria procure ajuda.
 
@@ -121,11 +101,6 @@ O desenho segue uma razão de **randomização de 1:1** com 30 participantes, on
 
 ### 2.2 População do Estudo
 
-<!--
-INSTRUÇÕES: 200-300 palavras
-Ser MUITO específico nos critérios
-Cada critério deve ser verificável/mensurável
--->
 
 #### 2.2.1 Critérios de Inclusão
 
