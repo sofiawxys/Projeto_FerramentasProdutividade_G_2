@@ -1,0 +1,39 @@
+flowchart TD
+
+A[Início] --> B[Recrutamento e Divulgação]
+B --> C[Acesso à Landing Page]
+C --> D[Consentimento Informado Digital]
+
+D --> E["Triagem Inicial (PHQ-9)"]
+E --> F{Elegível?}
+
+F -- Não --> G[Excluído do Estudo]
+G --> H[Fim]
+
+F -- Sim --> I["Baseline (T0): PHQ-9, GAD-7, PSQI"]
+I --> J[Randomização 1:1]
+
+J --> K{Grupo?}
+
+K -- Não --> L[Instalação da App MindMove]
+L --> M[Onboarding + Tutorial]
+M --> N["Uso da App (8 semanas)"]
+
+K -- Sim --> O[Recebe Brochuras Informativas]
+O --> P["Acompanhamento Habitual (8 semanas)"]
+
+N --> Q["Avaliação Intermédia (Semana 4 - PHQ-9)"]
+P --> Q
+
+Q --> R[Continuação Intervenção / Controlo]
+
+R --> S["Avaliação Final (Semana 8 - T2)"]
+S --> T{Participante Completa Estudo?}
+
+T -- Não --> U[Dropout]
+U --> V[Fim]
+
+T -- Sim --> W[Análise de Outcomes]
+
+W --> X["Follow-up Opcional (Semana 12)"]
+X --> Y[Fim]
