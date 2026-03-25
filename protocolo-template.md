@@ -2,6 +2,8 @@
 title: " MindMove: Ensaio Clínico Randomizado"
 author: "Grupo 2 - Turma 1"
 date: "2026-03-27"
+bibliography: referencias.bib
+lang: pt-PT
 ---
 
 # Protocolo de Ensaio Clínico
@@ -46,11 +48,11 @@ Email: up202505760@up.pt
 ### 1.1 Racional
 
 
-A transição para o ensino superior é um período de vulnerabilidade crítica, marcado por exigências académicas e isolamento social, resultando numa prevalência crescente de sintomas depressivos. Estima-se que cerca de um terço dos universitários experiencie mal-estar psicológico significativo, contudo, as barreiras ao cuidado tradicional — como o estigma, o custo e as longas listas de espera nos serviços de psicologia — impedem que a maioria procure ajuda.
+A transição para o ensino superior é um período de vulnerabilidade crítica, marcado por exigências académicas e isolamento social, resultando numa prevalência crescente de sintomas depressivos [@ibrahimSystematicReviewStudies2013]. Estima-se que cerca de um terço dos universitários experiencie mal-estar psicológico significativo @auerbachWHOWorldMental2018], contudo, as barreiras ao cuidado tradicional — como o estigma, o custo e as longas listas de espera nos serviços de psicologia — impedem que a maioria procure ajuda.
 
-Atualmente, o suporte convencional limita-se a consultas presenciais escassas ou materiais informativos passivos. Embora as intervenções digitais (dMHIs) tenham demonstrado eficácia na literatura, existe um gap no que toca a ferramentas multimodais que integrem a Terapia Cognitivo-Comportamental digital (dCBT) com a monitorização de estilos de vida (sono e atividade física) especificamente para a população académica portuguesa.
+Atualmente, o suporte convencional limita-se a consultas presenciais escassas ou materiais informativos passivos. Embora as intervenções digitais (dMHIs) tenham demonstrado eficácia na literatura [@firthEfficacySmartphonebasedMental2017; @anderssonInternetbasedOtherComputerized2009], existe um gap no que toca a ferramentas multimodais que integrem a Terapia Cognitivo-Comportamental digital (dCBT) com a monitorização de estilos de vida (sono e atividade física) especificamente para a população académica portuguesa.
 
-O MindMove preenche esta lacuna ao oferecer uma solução escalável que atua na janela de oportunidade de sintomas ligeiros a moderados (PHQ-9 entre 5-14), prevenindo a progressão para quadros clínicos graves. A escolha do comparador (lista de espera com material estático) justifica-se por representar o standard of care atual em muitos serviços universitários, onde o apoio imediato não está disponível. Espera-se que este estudo demonstre que a monitorização ativa e o suporte guiado por app resultam numa redução superior dos sintomas face à leitura passiva de brochuras.
+O MindMove preenche esta lacuna ao oferecer uma solução escalável que atua na janela de oportunidade de sintomas ligeiros a moderados (PHQ-9 entre 5-14) [@freeEffectivenessMobilehealthTechnologies2013], prevenindo a progressão para quadros clínicos graves. A escolha do comparador (lista de espera com material estático) justifica-se por representar o standard of care atual em muitos serviços universitários, onde o apoio imediato não está disponível. Espera-se que este estudo demonstre que a monitorização ativa e o suporte guiado por app resultam numa redução superior dos sintomas face à leitura passiva de brochuras.
 
 ### 1.2 Objetivos
 
@@ -58,15 +60,15 @@ O presente estudo visa investigar a viabilidade e a eficácia preliminar de uma 
 
 #### Objetivo Primário
 
-Avaliar a eficácia da aplicação **MindMove** na redução dos sintomas depressivos em estudantes universitários, medida pela variação média no score da escala **PHQ-9** (*Patient Health Questionnaire-9*), entre o momento inicial (baseline) e o final da intervenção (8 semanas), em comparação com um grupo de controlo em lista de espera.
+Avaliar a eficácia da aplicação **MindMove** na redução dos sintomas depressivos em estudantes universitários, medida pela variação média no score da escala **PHQ-9** (*Patient Health Questionnaire-9*) [@kroenkePHQ9ValidityBrief2001], entre o momento inicial (baseline) e o final da intervenção (8 semanas), em comparação com um grupo de controlo em lista de espera.
 
 #### Objetivos Secundários
 
 Os objetivos secundários deste estudo são:
 
-1.  **Sintomatologia Ansiosa:** Avaliar a redução dos níveis de ansiedade através da variação da escala **GAD-7** (*Generalized Anxiety Disorder-7*).
-2.  **Bem-estar Holístico:** Monitorizar o impacto da intervenção na qualidade do sono, via **PSQI** (*Pittsburgh Sleep Quality Index*), e nos níveis de atividade física semanal (minutos de atividade moderada a vigorosa).
-3.  **Viabilidade e Adesão:** Determinar a taxa de adesão (*engagement* — frequência de uso da app), taxa de retenção e taxa de abandono (*dropout*) ao longo das 8 semanas.
+1.  **Sintomatologia Ansiosa:** Avaliar a redução dos níveis de ansiedade através da variação da escala **GAD-7** [@spitzerBriefMeasureAssessing2006](*Generalized Anxiety Disorder-7*).
+2.  **Bem-estar Holístico:** Monitorizar o impacto da intervenção na qualidade do sono, via **PSQI** (*Pittsburgh Sleep Quality Index*) [@buyssePittsburghSleepQuality1989], e nos níveis de atividade física semanal (minutos de atividade moderada a vigorosa).
+3.  **Viabilidade e Adesão:** Determinar a taxa de adesão (*engagement* [@baumelObjectiveUserEngagement2019] — frequência de uso da app), taxa de retenção e taxa de abandono (*dropout*) ao longo das 8 semanas.
 4.  **Experiência do Utilizador:** Avaliar o nível de satisfação, usabilidade (SUS - *System Usability Scale*) e aceitabilidade das funcionalidades específicas da aplicação MindMove.
 
 ---
@@ -75,7 +77,7 @@ Os objetivos secundários deste estudo são:
 
 ### 2.1 Desenho do Estudo
 
-O estudo configura-se como um **ensaio clínico controlado e randomizado (RCT)**, de grupos paralelos, com ocultação da alocação. Trata-se de um estudo piloto (fase de pré-teste) monocêntrico, a realizar no Serviço de Psicologia da Universidade do Porto.
+O estudo configura-se como um **ensaio clínico controlado e randomizado (RCT)** [@schulzCONSORT2010Statement2010], de grupos paralelos, com ocultação da alocação. Trata-se de um estudo piloto (fase de pré-teste) monocêntrico, a realizar no Serviço de Psicologia da Universidade do Porto.
 
 O desenho segue uma razão de **randomização de 1:1** com 30 participantes, onde os participantes são alocados ou para o braço de intervenção (App MindMove) ou para o braço de controlo (Lista de Espera com brochuras informativas). A duração total da participação individual é de **10 semanas** (2 semanas de recrutamento/triagem e 8 semanas de intervenção ativa). O estudo foca-se na avaliação de resultados *superiority* da intervenção digital face ao cuidado passivo.
 
@@ -168,7 +170,7 @@ Os participantes serão retirados do estudo se:
 
 ### 3.1 Outcome Primário (Ponto 6a)
 **Redução da sintomatologia depressiva**
-- **Instrumento:** Questionário *Patient Health Questionnaire-9* (PHQ-9), com pontuação total de 0 a 27.
+- **Instrumento:** Questionário *Patient Health Questionnaire-9* (PHQ-9) [@kroenkePHQ9ValidityBrief2001], com pontuação total de 0 a 27.
 - **Momento de avaliação:** Baseline (T0 - recrutamento) e após 8 semanas de utilização da aplicação "MindMove" (T1).
 - **Definição de sucesso:** Redução clinicamente significativa de pelo menos 5 pontos na pontuação total ou descida de categoria de gravidade (ex: de moderada para ligeira).
 
@@ -176,7 +178,7 @@ Os participantes serão retirados do estudo se:
 Para avaliar a viabilidade e eficácia da ferramenta digital, serão medidos:
 
 1. **Usabilidade do Sistema:** Medida através do *System Usability Scale* (SUS) aplicado no momento T1 (8 semanas). Um score > 68 indica boa aceitabilidade.
-2. **Adesão e Engagement:** Extraído dos logs automáticos da aplicação "MindMove":
+2. **Adesão e Engagement:** Extraído dos logs automáticos da aplicação "MindMove"[@baumelObjectiveUserEngagement2019]:
    - Média de registos de humor (*mood tracking*) semanais.
    - Percentagem de conclusão dos módulos de Terapia Cognitivo-Comportamental digital.
 3. **Bem-estar Geral:** Avaliação da qualidade de vida através do índice *WHO-5 Well-Being Index* em T0 e T1.
@@ -225,7 +227,7 @@ Como estudo pré-teste de viabilidade, o tamanho de amostra (n=30, 15 por grupo)
 ## 5. Ética e Disseminação
 
 ### 5.1 Aprovação Ética
-O protocolo do estudo, o formulário de consentimento informado e os materiais de recrutamento serão submetidos para revisão e aprovação à **Comissão de Ética da Faculdade de Medicina da Universidade do Porto (FMUP)**. Qualquer emenda ao protocolo que possa afetar a segurança dos participantes, o desenho do estudo ou os objetivos científicos será submetida como adenda para aprovação prévia antes da sua implementação.
+O protocolo do estudo, o formulário de consentimento informado e os materiais de recrutamento serão submetidos para revisão e aprovação à **Comissão de Ética da Faculdade de Medicina da Universidade do Porto (FMUP)** [@WorldMedicalAssociation]. Qualquer emenda ao protocolo que possa afetar a segurança dos participantes, o desenho do estudo ou os objetivos científicos será submetida como adenda para aprovação prévia antes da sua implementação.
 
 ### 5.2 Consentimento Informado
 O processo de consentimento será realizado de forma digital através da *landing page* do estudo.
@@ -250,7 +252,7 @@ Embora a intervenção seja de baixo risco, o bem-estar dos estudantes é priori
 ### 5.5 Disseminação
 Os resultados deste ensaio clínico serão comunicados independentemente da magnitude ou direção do efeito:
 
-* **Publicação Científica:** Submissão dos resultados a revistas de especialidade com revisão por pares (*peer-review*) nas áreas de Saúde Mental Digital ou Psicologia Clínica.
+* **Publicação Científica:** Submissão dos resultados a revistas de especialidade com revisão por pares (*peer-review*) [@eysenbachCONSORTEHEALTHImprovingStandardizing2011] nas áreas de Saúde Mental Digital ou Psicologia Clínica.
 * **Comunidade Académica:** Apresentação em congressos nacionais e internacionais.
 * **Participantes:** Será elaborado um relatório síntese com os resultados agregados, a ser enviado a todos os participantes que manifestem interesse no final do estudo.
 ---
