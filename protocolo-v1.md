@@ -101,6 +101,8 @@ O desenho segue uma razão de **randomização de 1:1** com 30 participantes, on
 | **Post-test (T2)** | Semana 8 | Avaliação final de todos os outcomes primários e secundários. |
 | **Follow-up** | Semana 12 | (Opcional) Avaliação de manutenção de ganhos após término da intervenção. |
 
+![FluxogramaCONSORT.drawio.png](FluxogramaCONSORT.drawio.png)
+
 ### 2.2 População do Estudo
 
 
