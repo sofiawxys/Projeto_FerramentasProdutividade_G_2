@@ -102,6 +102,10 @@ O desenho segue uma razão de **randomização de 1:1** com 30 participantes, on
 | **Follow-up** | Semana 12 | (Opcional) Avaliação de manutenção de ganhos após término da intervenção. |
 
 ![Fluxograma_CONSORT](https://github.com/user-attachments/assets/0ed2ee12-e033-4936-a20d-68e61c3cef6b)
+Figura 1: Fluxograma CONSORT ilustrando a previsão da progressão dos participantes através das fases do ensaio clínico.
+
+![diagrama_percurso_clinico](https://github.com/user-attachments/assets/210aaaea-6163-4f57-9a89-1b68677612d3)
+Figura 2: Diagrama de atividades do percurso do participante no estudo clínico.
 
 ### 2.2 População do Estudo
 
@@ -150,6 +154,9 @@ Os participantes randomizados para o grupo de intervenção receberão acesso à
 
 **Cuidado concomitante:**
 Os participantes mantêm o acompanhamento médico habitual, incluindo consultas programadas e medicação prescrita, sem interrupções pelo estudo.
+
+![DiagramaCasosUsoMindMove](https://github.com/user-attachments/assets/dc4fdda2-08cf-4342-836b-364f6a47c570)
+Figura 3: Diagrama de casos de uso da aplicação MindMove.
 
 ### 2.3.2 Grupo Controlo
 Os participantes do grupo controlo receberão o cuidado padrão (Standard of Care).
