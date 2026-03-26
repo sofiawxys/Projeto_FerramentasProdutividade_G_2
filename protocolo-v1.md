@@ -101,6 +101,14 @@ O desenho segue uma razão de **randomização de 1:1** com 30 participantes, on
 | **Post-test (T2)** | Semana 8 | Avaliação final de todos os outcomes primários e secundários. |
 | **Follow-up** | Semana 12 | (Opcional) Avaliação de manutenção de ganhos após término da intervenção. |
 
+![Fluxograma_CONSORT](https://github.com/user-attachments/assets/0ed2ee12-e033-4936-a20d-68e61c3cef6b)
+
+Figura 1: Fluxograma CONSORT ilustrando a previsão da progressão dos participantes através das fases do ensaio clínico.
+
+![diagrama_percurso_clinico](https://github.com/user-attachments/assets/210aaaea-6163-4f57-9a89-1b68677612d3)
+
+Figura 2: Diagrama de atividades do percurso do participante no estudo clínico.
+
 ### 2.2 População do Estudo
 
 
@@ -148,6 +156,15 @@ Os participantes randomizados para o grupo de intervenção receberão acesso à
 
 **Cuidado concomitante:**
 Os participantes mantêm o acompanhamento médico habitual, incluindo consultas programadas e medicação prescrita, sem interrupções pelo estudo.
+
+![DiagramaCasosUsoMindMove](https://github.com/user-attachments/assets/dc4fdda2-08cf-4342-836b-364f6a47c570)
+
+Figura 3: Diagrama de casos de uso da aplicação MindMove.
+
+![Diagrama_de_atividades_do_percurso_como_utilizador_da_aplicaçao_digital](https://github.com/user-attachments/assets/51df8228-ace3-46a0-b0a9-df01d3b11e84)
+
+Figura 4: Diagrama de atividades mapeando a jornada de navegação dos participantes e suas tarefas enquanto utilizadores da aplicação digital.
+
 
 ### 2.3.2 Grupo Controlo
 Os participantes do grupo controlo receberão o cuidado padrão (Standard of Care).
@@ -242,6 +259,10 @@ Todos os dados recolhidos serão tratados em estrita conformidade com o **Regula
 * **Anonimização:** A cada participante será atribuído um código de identificação único (ID). A chave de ligação entre o ID e a identidade real será armazenada num ficheiro encriptado, acessível apenas ao Investigador Principal.
 * **Armazenamento:** Os dados da aplicação e dos questionários serão alojados em servidores seguros com acesso restrito.
 * **Segurança:** Toda a transmissão de dados entre a app e o servidor será protegida por protocolos de encriptação SSL.
+
+![diagrama_sequencia](https://github.com/user-attachments/assets/9c54f6c4-bcce-47c3-bb9c-95cd07e84783)
+
+Figura 5: Diagrama de sequência da MindMove, ilustrando o processo de interação, submissão e armazenamento seguro dos dados do participante.
 
 ### 5.4 Monitorização de Segurança
 Embora a intervenção seja de baixo risco, o bem-estar dos estudantes é prioritário:
