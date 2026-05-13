@@ -48,7 +48,7 @@ Email: up202505760@up.pt
 ### 1.1 Racional
 
 
-A transição para o ensino superior é um período de vulnerabilidade crítica, marcado por exigências académicas e isolamento social, resultando numa prevalência crescente de sintomas depressivos [@ibrahimSystematicReviewStudies2013]. Estima-se que cerca de um terço dos universitários experiencie mal-estar psicológico significativo @auerbachWHOWorldMental2018], contudo, as barreiras ao cuidado tradicional — como o estigma, o custo e as longas listas de espera nos serviços de psicologia — impedem que a maioria procure ajuda.
+A transição para o ensino superior é um período de vulnerabilidade crítica, marcado por exigências académicas e isolamento social, resultando numa prevalência crescente de sintomas depressivos [@ibrahimSystematicReviewStudies2013]. Estima-se que cerca de um terço dos universitários experiencie mal-estar psicológico significativo [@auerbachWHOWorldMental2018], contudo, as barreiras ao cuidado tradicional — como o estigma, o custo e as longas listas de espera nos serviços de psicologia — impedem que a maioria procure ajuda.
 
 Atualmente, o suporte convencional limita-se a consultas presenciais escassas ou materiais informativos passivos. Embora as intervenções digitais (dMHIs) tenham demonstrado eficácia na literatura [@firthEfficacySmartphonebasedMental2017; @anderssonInternetbasedOtherComputerized2009], existe um gap no que toca a ferramentas multimodais que integrem a Terapia Cognitivo-Comportamental digital (dCBT) com a monitorização de estilos de vida (sono e atividade física) especificamente para a população académica portuguesa.
 
@@ -140,9 +140,9 @@ Serão excluídos do estudo indivíduos que apresentem **qualquer** dos seguinte
 O recrutamento adotará uma estratégia de amostragem de conveniência no contexto académico, utilizando uma abordagem dupla. Primeiramente, estabelecer-se-ão protocolos com os Serviços de Saúde e Apoio Psicológico de várias faculdades, cujos profissionais poderão referenciar diretamente estudantes que apresentem queixas subclínicas enquadráveis. Em segundo lugar, será conduzida uma campanha de divulgação ativa através do envio de e-mails institucionais, afixação de cartazes nos *campi* universitários e publicações nas redes sociais das Associações de Estudantes locais. Os materiais de divulgação incluirão um código QR e um *link* para uma plataforma segura (*landing page* do estudo), onde os interessados poderão consultar a folha de informação, assinar o consentimento informado digital e preencher o questionário de triagem inicial (incluindo o PHQ-9) para validação automática de elegibilidade.
 
 
-## 2.3 Métodos: Intervenções
+### 2.3 Métodos: Intervenções
 
-### 2.3.1 Grupo de Intervenção
+#### 2.3.1 Grupo de Intervenção
 Os participantes randomizados para o grupo de intervenção receberão acesso à aplicação móvel do projeto.
 
 **Funcionalidades principais:**
@@ -166,7 +166,7 @@ Figura 3: Diagrama de casos de uso da aplicação MindMove.
 Figura 4: Diagrama de atividades mapeando a jornada de navegação dos participantes e suas tarefas enquanto utilizadores da aplicação digital.
 
 
-### 2.3.2 Grupo Controlo
+#### 2.3.2 Grupo Controlo
 Os participantes do grupo controlo receberão o cuidado padrão (Standard of Care).
 
 **Descrição:**
@@ -177,7 +177,7 @@ Os participantes do grupo controlo receberão o cuidado padrão (Standard of Car
 **Justificação:**
 Este comparador é utilizado por representar a prática clínica atual, permitindo medir o benefício incremental da solução digital.
 
-### 2.3.3 Critérios de Descontinuação
+#### 2.3.3 Critérios de Descontinuação
 Os participantes serão retirados do estudo se:
 1. Revogarem o consentimento informado por vontade própria;
 2. Apresentarem um agravamento clínico que exija internamento ou impeça o uso da tecnologia;
@@ -202,7 +202,7 @@ Para avaliar a viabilidade e eficácia da ferramenta digital, serão medidos:
 4. **Segurança Clínica:** Monitorização de ideação suicida (item 9 do PHQ-9) em cada interação com a app; qualquer pontuação ≥ 1 gera um alerta automático para a equipa de investigação.
 ---
 
-### 4. Análise Estatística
+## 4. Análise Estatística
 
 **4.1 Tamanho da Amostra**
 
